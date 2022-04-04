@@ -20,7 +20,7 @@ ThinkPad L480 Hackintosh EFI with OpenCore 0.7.9
 | GPU       | Intel UHD 620                     |                                              |
 | SSD       | Intel 760p 512GB                  |                                              |
 | Memory    | 16GB DDR4 2400Mhz                 |                                              |
-| Battery   | Dual battery                      |                                              |
+| Battery   | Single battery                    |                                              |
 | Camera    | 720p Camera                       |                                              |
 | Wifi & BT | Intel Dual Band Wireless AC 8265  |                                              |
 | Input     | PS2 Keyboard & Synaptics TrackPad |                                              |

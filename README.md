@@ -66,11 +66,11 @@ ThinkPad L480 Hackintosh EFI with OpenCore 0.9.0
 
 <summary><strong>What's working </strong></summary>
 
-- [x] Battery percentage
+- [x] Battery percentage.
 - [x] CPU power management / performance.
 - [x] GPU UHD 620 hardware acceleration / performance.
 - [x] HDMI `Closed and opened lid. With audio.
-- [x] iMessage, FaceTime, App Store, iTunes Store. **Generate your own SMBIOS**
+- [x] iMessage, FaceTime, App Store, iTunes Store. **Make sure to generate your own SMBIOS**
 - [x] Intel I219V Ethernet port.
 - [x] Keyboard `Volume and brightness hotkeys.
 - [x] Realtek® ALC3287 ("ALC257") Audio.
@@ -82,7 +82,7 @@ ThinkPad L480 Hackintosh EFI with OpenCore 0.9.0
 - [x] Web camera.
 - [x] Wifi - Intel Dual Band Wireless AC 8265.
 - [x] Windows 11 boot from OC boot menu.
-- [x] Bluetooth
+- [x] Bluetooth.
 
 </details>  
 

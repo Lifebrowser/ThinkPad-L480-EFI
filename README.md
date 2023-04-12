@@ -4,7 +4,7 @@ ThinkPad L480 Hackintosh EFI with OpenCore 0.9.0
 [中文版简介](https://github.com/Lifebrowser/ThinkPad-L480-EFI/blob/main/%E7%AE%80%E4%BB%8B.md)
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.0-lightblue.svg)](https://github.com/acidanthera/OpenCorePkg)
-[![macOS-Stable](https://img.shields.io/badge/macOS-13.3-orange.svg)](https://www.apple.com/macos/ventura/)
+[![macOS-Stable](https://img.shields.io/badge/macOS-13.3.1-orange.svg)](https://www.apple.com/macos/ventura/)
 [![Windows-Stable](https://img.shields.io/badge/Windows-11-blue.svg)](https://www.microsoft.com/en-us/windows)
 
 ## Introduction
@@ -30,7 +30,7 @@ ThinkPad L480 Hackintosh EFI with OpenCore 0.9.0
 
 | Component      | Version        |
 | -------------- |  ------------- |
-| macOS Ventura  | 13.3(22E252)   |
+| macOS Ventura  | 13.3.1(22E261) |
 | Windows 11     | 22H2           |
 | OpenCore       | v0.9.0         |
 

@@ -80,6 +80,7 @@ ThinkPad L480 Hackintosh EFI with OpenCore 0.9.0
 - [x] Web camera.
 - [x] Wifi - Intel Dual Band Wireless AC 8265.
 - [x] Windows 11 boot from OC boot menu.
+- [x] Bluetooth
 
 </details>  
 
@@ -87,7 +88,5 @@ ThinkPad L480 Hackintosh EFI with OpenCore 0.9.0
 
 <summary><strong>What's not working </strong></summary>
 
-
-- [ ] Bluetooth
 
 </details>  

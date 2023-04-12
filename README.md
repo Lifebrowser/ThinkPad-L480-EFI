@@ -58,6 +58,8 @@ ThinkPad L480 Hackintosh EFI with OpenCore 0.9.0
 - `UEFI/Legacy Boot` **UEFI Only**
 - `CSM Support` **No**
 
+</details>
+
 ## Status
 
 <details>  

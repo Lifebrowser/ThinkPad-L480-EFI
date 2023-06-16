@@ -73,3 +73,9 @@ ThinkPad L480 Hackintosh EFI with OpenCore 0.9.0
 - [x] Windows 11 boot from OC boot menu.
 
 <summary><strong>What's not working </strong></summary>
+
+## References & Special thanks to
+- [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)
+- [Acidanthera Mac Drivers](https://github.com/acidanthera)
+- [Open Intel Wireless](https://github.com/OpenIntelWireless/itlwm)
+- [Opencore Configurator](https://mackie100projects.altervista.org/opencore-configurator/)
